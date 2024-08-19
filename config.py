@@ -5,10 +5,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_ID = int(getenv("API_ID", "24547299"))
+API_ID = int(getenv("API_ID", "6435225"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_HASH = getenv("API_HASH", "eb10c125d96d2146dc893b744470cea4")
+API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_TOKEN = getenv("BOT_TOKEN", None)
